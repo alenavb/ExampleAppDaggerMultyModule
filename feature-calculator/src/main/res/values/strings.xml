@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">calculator</string>
+    <string name="insert_second_number_hint">Введите во вторую строчку число</string>
+    <string name="insert_first_number_hint">Введите в первую строчку число</string>
+    <string name="calculate">Получить результат</string>
+    <string name="result">Результат</string>
+    <string name="both_numbers_must_be_positive">Оба числа должны быть больше 0</string>
+    <string name="both_numbers_must_have_value">Введите значения для обоих чисел</string>
+</resources>

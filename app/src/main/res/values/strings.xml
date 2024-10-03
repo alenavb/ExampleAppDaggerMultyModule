@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExampleAppDaggerMultyModule</string>
+    <string name="app_main_start">Давай начнем</string>
+</resources>
